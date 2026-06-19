@@ -5,7 +5,7 @@ export default {
     container.innerHTML = `
       <div class="contact-content">
         <p class="contact-lead">
-        I am actively seeking full-time opportunities in UAV control systems, flight dynamics, software engineering, and fabrication. Whether you want to discuss an open role, a project idea, or just connect, feel free to contact me.  
+        I’m currently looking for full-time opportunities in aircraft conceptual design, aligned with my master’s thesis work. If you’d like to discuss a role, a project idea, or just connect, feel free to reach out.
         </p>
         
 

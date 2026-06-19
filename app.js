@@ -1,6 +1,6 @@
 import about from './sections/about/about.js';
 import thesis from './sections/thesis/thesis.js';
-// import publications from './sections/publications/publications.js';
+import publications from './sections/publications/publications.js';
 import projects from './sections/projects/projects.js';
 import interests from './sections/interests/interests.js';
 import contact from './sections/contact/contact.js';
@@ -178,7 +178,7 @@ function closeLightbox() {
 // Orchestrator initialization
 function initializePortfolio() {
     // 1. Render Section Modules
-    const sections = [about, thesis, projects, /* publications, */ interests, contact];
+    const sections = [about, thesis, projects, publications, interests, contact];
     sections.forEach(sec => {
         const container = document.getElementById(sec.id);
         if (container) {
@@ -233,7 +233,7 @@ function initializePortfolio() {
 
     // 6. Active nav link highlighting
     const navLinks = document.querySelectorAll('.nav-links a:not(.btn)');
-    const sectionIds = ['about', 'thesis', 'projects', /* 'publications', */ 'interests', 'contact'];
+    const sectionIds = ['about', 'thesis', 'projects', 'publications', 'interests', 'contact'];
 
     const navObserver = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
