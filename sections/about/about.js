@@ -9,10 +9,10 @@ export default {
             I am currently completing my Master's in Aerospace Engineering at the Technical University of Munich. Over the years, through various projects, I have discovered how I work best. I find being goal-oriented far more satisfying than being task-oriented, and I naturally gravitate toward taking full responsibility and accountability for my work. I have also found that dynamic environments and working under time pressure actually help me connect with a team and execute at a higher level.
           </p>
           <p>
-            During my Bachelor's, I learned some of my most valuable lessons from projects that ultimately failed. In my Master's, I made entirely new mistakes and learned from those as well. I actively apply these hard-earned lessons to my everyday life, driven by the ambition to build things that leave a genuine mark on the world.
+            During my Bachelor's, I learned some of my most valuable lessons from projects that ultimately failed. In my Master's, I made entirely new mistakes and learned from those as well. I actively carry these lessons forward and apply them in my work, with a focus on continuous improvement and practical execution..
           </p>
           <p>
-           Beyond engineering, I am a multi-instrumentalist. My drive to build extends into my downtime, when I spend my hours recreating cinematic music scores in a digital audio workstation or experimenting with pocket-sized hardware development boards.
+           Outside of engineering, I am a multi-instrumentalist. I often extend my interest in building systems into my free time, recreating cinematic music scores in a digital audio workstation and experimenting with AI agents to automate simple workflows.
           </p>
           
           <div class="skills-section-inside">
